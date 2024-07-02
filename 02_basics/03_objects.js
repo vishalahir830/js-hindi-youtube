@@ -23,6 +23,3 @@ console.log(JsUser[mySym]);
 
 JsUser.email = "vishalll@google.com"
 Object.freeze(JsUser)
-
-
-
