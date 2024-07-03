@@ -59,14 +59,28 @@ const users = [
 ]
 
 users[1].email
-console.log(tinderUser);
+// console.log(tinderUser);
 
-console.log(Object.keys(tinderUser));
-console.log(Object.values(tinderUser));
+// console.log(Object.keys(tinderUser));
+// console.log(Object.values(tinderUser));
 
-console.log(Object.entries(tinderUser));
+// console.log(Object.entries(tinderUser));
 
 
+const course = {
+    coursename: "javascript",
+    price: "999",
+    courseinstructor:"pareshsir"
+}
+course.name='vishal'
+// const {courseinstructor} = course
+console.log(course);
+
+const navbar (this.props.company) => {
+
+}
+
+navbar(company = "technicalcore")
 
 
 
