@@ -77,4 +77,6 @@ function returnSecondValue(getArray){
 
 } 
 console.log(returnSecondValue(myNewArray));
+  
+
 
