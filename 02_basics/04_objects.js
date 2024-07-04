@@ -59,12 +59,12 @@ const users = [
 ]
 
 users[1].email
-// console.log(tinderUser);
+console.log(tinderUser);
 
-// console.log(Object.keys(tinderUser));
-// console.log(Object.values(tinderUser));
+console.log(Object.keys(tinderUser));
+console.log(Object.values(tinderUser));
 
-// console.log(Object.entries(tinderUser));
+console.log(Object.entries(tinderUser));
 
 
 const course = {
@@ -76,11 +76,11 @@ course.name='vishal'
 // const {courseinstructor} = course
 console.log(course);
 
-const navbar (this.props.company) => {
+// const navbar (this.props.company) => {
 
-}
+// }
 
-navbar(company = "technicalcore")
+// navbar(company = "technicalcore")
 
 
 
