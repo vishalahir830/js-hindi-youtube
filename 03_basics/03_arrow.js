@@ -9,41 +9,41 @@ const user ={
 }
 
 
-// user.welcomeMessage()
-// user.username = "sneh"
-// user.welcomeMessage()
+user.welcomeMessage()
+user.username = "sneh"
+user.welcomeMessage()
 
-// console.log(this);
+console.log(this);
 
-// function chai() {
-    //  username = "vishal"
+function chai() {
+     username = "vishal"
 
-//     console.log(this);
+    console.log(this);
 
-// }
+}
 
-// chai()
-
-
-
-// const chai = function () {
-
-//     username = "vishal"
-//      console.log(this.username);
-
-// }
-
-// chai()
+chai()
 
 
-// const chai = () => {
 
-//     username = "vishal"
-//      console.log(this.username);
+const chai = function () {
 
-// }
+    username = "vishal"
+     console.log(this.username);
 
-// chai()
+}
+
+chai()
+
+
+const chai = () => {
+
+    username = "vishal"
+     console.log(this.username);
+
+}
+
+chai()
 
 const chai = () => {
 
